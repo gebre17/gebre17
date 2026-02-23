@@ -13,10 +13,10 @@ I build secure, reproducible, production-grade systems with a focus on automatio
 
 ---
 
-## 🚀 What I Engineer
+## 🚀 Development Areas
 - End-to-end secure backend platforms
 - Security orchestration & automated incident workflows
-- Dockerized and CI-driven deployment pipelines
+- Delivering systems through Dockerized, CI/CD‑driven workflows
 - Integration layers between security and development systems
 
 ---
@@ -25,7 +25,6 @@ I build secure, reproducible, production-grade systems with a focus on automatio
 **Languages:** Python, JavaScript (ES6+)  
 **Frameworks:** Django, React
 **DevOps:** Docker, CI/CD pipelines, GitHub Actions, GitLab  
-**Systems:** Linux, REST APIs  
 **Domain:** Security Automation, Workflow Orchestration, Secure Architecture
 
 ---
